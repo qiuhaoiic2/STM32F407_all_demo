@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ld": "arm",
+        "board.h": "c"
+    }
+}

@@ -33,7 +33,7 @@ extern uint32_t SystemCoreClock;
 
 /* Memory allocation related definitions. */
 
-#define configTOTAL_HEAP_SIZE                                       (16 * 1024)
+#define configTOTAL_HEAP_SIZE                                       (32 * 1024)
 
 
 

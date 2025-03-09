@@ -45,10 +45,10 @@
 .\objects\user_lvgl.o: ..\driver\led\led.h
 .\objects\user_lvgl.o: ..\app\inc\board.h
 .\objects\user_lvgl.o: ..\driver\uart\uart.h
-.\objects\user_lvgl.o: ..\third_lib\letter_shell\shell.h
-.\objects\user_lvgl.o: ..\third_lib\letter_shell\shell_cfg.h
 .\objects\user_lvgl.o: ..\third_lib\tlsf\tlsf.h
 .\objects\user_lvgl.o: F:\keil_5\ARM\Version_5\Bin\..\include\stddef.h
+.\objects\user_lvgl.o: ..\third_lib\letter_shell\shell.h
+.\objects\user_lvgl.o: ..\third_lib\letter_shell\shell_cfg.h
 .\objects\user_lvgl.o: ..\app\inc\shell_command.h
 .\objects\user_lvgl.o: ..\third_lib\ringbuff\ringbuffer8.h
 .\objects\user_lvgl.o: ..\driver\dht11\dht11.h
@@ -229,3 +229,5 @@
 .\objects\user_lvgl.o: ..\third_lib\lvgl\src/drivers/display/ili9341/lv_ili9341.h
 .\objects\user_lvgl.o: ..\third_lib\lvgl\src/drivers/display/ili9341/../lcd/lv_lcd_generic_mipi.h
 .\objects\user_lvgl.o: ..\app\inc\user_lvgl.h
+.\objects\user_lvgl.o: ..\third_lib\easy_logger\elog.h
+.\objects\user_lvgl.o: ..\third_lib\easy_logger\elog_cfg.h

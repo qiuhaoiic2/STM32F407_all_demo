@@ -340,7 +340,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F40_41xxx,USE_STDPERIPH_DRIVER,HSE_VALUE=8000000,NDEBUG,LV_CONF_INCLUDE_SIMPLE</Define>
               <Undefine></Undefine>
-              <IncludePath>..\app\inc;..\driver\led;..\firmware\cmsis\core;..\firmware\cmsis\device;..\firmware\driver\inc;..\driver\uart;..\third_lib\letter_shell;..\third_lib\ringbuff;..\third_lib\tlsf;..\driver\timer;..\driver\dht11;..\driver\lcd;..\third_lib\FreeRTOS\include;..\third_lib\FreeRTOS\portable\RVDS\ARM_CM4F;..\third_lib\lvgl</IncludePath>
+              <IncludePath>..\app\inc;..\driver\led;..\firmware\cmsis\core;..\firmware\cmsis\device;..\firmware\driver\inc;..\driver\uart;..\third_lib\letter_shell;..\third_lib\ringbuff;..\third_lib\tlsf;..\driver\timer;..\driver\dht11;..\driver\lcd;..\third_lib\FreeRTOS\include;..\third_lib\FreeRTOS\portable\RVDS\ARM_CM4F;..\third_lib\lvgl;..\third_lib\easy_logger</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -1538,6 +1538,36 @@
               <FileName>lvgl.h</FileName>
               <FileType>5</FileType>
               <FilePath>..\third_lib\lvgl\lvgl.h</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>third_lib/easy_log</GroupName>
+          <Files>
+            <File>
+              <FileName>elog.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\third_lib\easy_logger\elog.c</FilePath>
+            </File>
+            <File>
+              <FileName>elog_async.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\third_lib\easy_logger\elog_async.c</FilePath>
+            </File>
+            <File>
+              <FileName>elog_buf.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\third_lib\easy_logger\elog_buf.c</FilePath>
+            </File>
+            <File>
+              <FileName>elog_port.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\third_lib\easy_logger\elog_port.c</FilePath>
+            </File>
+            <File>
+              <FileName>elog_utils.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\third_lib\easy_logger\elog_utils.c</FilePath>
             </File>
           </Files>
         </Group>

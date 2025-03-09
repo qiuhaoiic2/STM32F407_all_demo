@@ -109,8 +109,6 @@ void uart_init(void)
 {
     uart_pin_init();       // 初始化 UART 引脚
     uart_lowlevel_init(115200);  // 初始化 UART 的低级配置
-    uart_dma_init();       // 初始化 UART 的 DMA发送
-
     uart_irq_init();       // 初始化 UART 的中断
 }
 /**
@@ -121,7 +119,7 @@ void uart_init(void)
  */
 void uart1_dma_write(const uint8_t *buff,uint16_t length)
 {
-    
+
     DMA_SetCurrDataCounter(DMA2_Stream7, length);
     DMA_MemoryTargetConfig(DMA2_Stream7, (uint32_t) buff, DMA_Memory_0);
     DMA_Cmd(DMA2_Stream7, ENABLE);

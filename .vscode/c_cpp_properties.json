@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "cStandard": "c99",
+            "compilerPath": "F:/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc",
+            "cppStandard": "c++11",
+            "defines": [
+                "STM32F40_41xxx",
+                "USE_STDPERIPH_DRIVER",
+                "HSE_VALUE=8000000"
+            ],
+            "includePath": [
+                "lvgl_freertos/app/inc",
+                "lvgl_freertos/driver/led",
+                "lvgl_freertos/firmware/cmsis/core",
+                "lvgl_freertos/firmware/cmsis/device",
+                "lvgl_freertos/firmware/driver/inc",
+                "lvgl_freertos/driver/uart",
+                "lvgl_freertos/third_lib/letter_shell",
+                "lvgl_freertos/pp/command",
+                "lvgl_freertos/third_lib/ringbuff",
+                "lvgl_freertos/third_lib/tlsf",
+                "lvgl_freertos/driver/timer",
+                "lvgl_freertos/driver/dht11",
+                "lvgl_freertos/driver/lcd",
+                "lvgl_freertos/third_lib/FreeRTOS/include",
+                "lvgl_freertos/third_lib/FreeRTOS/portable/RVDS/ARM_CM4F",
+                "lvgl_freertos/third_lib/lvgl",
+                "lvgl_freertos/third_lib/lvgl/src"
+            ],
+            "intelliSenseMode": "windows-gcc-arm",
+            "name": "stm32f407"
+        }
+    ],
+    "version": 4
+}

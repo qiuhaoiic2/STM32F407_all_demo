@@ -219,6 +219,11 @@
 ".\objects\lv_table.o"
 ".\objects\lv_switch.o"
 ".\objects\lv_bin_decoder.o"
+".\objects\elog.o"
+".\objects\elog_async.o"
+".\objects\elog_buf.o"
+".\objects\elog_port.o"
+".\objects\elog_utils.o"
 --library_type=microlib --strict --scatter ".\Objects\stm32f407.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

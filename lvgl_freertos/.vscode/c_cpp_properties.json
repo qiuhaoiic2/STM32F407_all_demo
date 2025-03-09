@@ -31,7 +31,8 @@
                 "third_lib/FreeRTOS/include",
                 "third_lib/FreeRTOS/portable/RVDS/ARM_CM4F",
                 "third_lib/lvgl",
-                "third_lib/lvgl/src"
+                "third_lib/lvgl/src",
+                "third_lib/easy_logger"
 
 
             ],

@@ -40,6 +40,9 @@
         "lv_fs.h": "c",
         "lv_draw_pxp.h": "c",
         "lvgl.h": "c",
-        "lv_ili9341.h": "c"
+        "lv_ili9341.h": "c",
+        "elog.h": "c",
+        "pthread.h": "c",
+        "sched.h": "c"
     }
 }

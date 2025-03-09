@@ -45,10 +45,10 @@
 .\objects\uart.o: ..\driver\led\led.h
 .\objects\uart.o: ..\app\inc\board.h
 .\objects\uart.o: ..\driver\uart\uart.h
-.\objects\uart.o: ..\third_lib\letter_shell\shell.h
-.\objects\uart.o: ..\third_lib\letter_shell\shell_cfg.h
 .\objects\uart.o: ..\third_lib\tlsf\tlsf.h
 .\objects\uart.o: F:\keil_5\ARM\Version_5\Bin\..\include\stddef.h
+.\objects\uart.o: ..\third_lib\letter_shell\shell.h
+.\objects\uart.o: ..\third_lib\letter_shell\shell_cfg.h
 .\objects\uart.o: ..\app\inc\shell_command.h
 .\objects\uart.o: ..\third_lib\ringbuff\ringbuffer8.h
 .\objects\uart.o: ..\driver\dht11\dht11.h
@@ -229,3 +229,5 @@
 .\objects\uart.o: ..\third_lib\lvgl\src/drivers/display/ili9341/lv_ili9341.h
 .\objects\uart.o: ..\third_lib\lvgl\src/drivers/display/ili9341/../lcd/lv_lcd_generic_mipi.h
 .\objects\uart.o: ..\app\inc\user_lvgl.h
+.\objects\uart.o: ..\third_lib\easy_logger\elog.h
+.\objects\uart.o: ..\third_lib\easy_logger\elog_cfg.h

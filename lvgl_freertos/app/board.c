@@ -4,8 +4,6 @@
  * @brief 板级支持包初始化
  *
  */
-
- 
 void board_lowlevel_init(void)
 {
 
