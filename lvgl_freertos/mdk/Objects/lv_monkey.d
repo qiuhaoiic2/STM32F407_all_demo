@@ -1,0 +1,17 @@
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\lv_monkey.c
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\lv_monkey.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../lv_conf_internal.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../lv_conf_kconfig.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\lv_conf.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/lv_indev.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../core/lv_group.h
+.\objects\lv_monkey.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdint.h
+.\objects\lv_monkey.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdbool.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../core/../misc/lv_types.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../core/../misc/lv_ll.h
+.\objects\lv_monkey.o: F:\keil_5\ARM\Version_5\Bin\..\include\stddef.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../misc/lv_area.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../misc/lv_timer.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../misc/../tick/lv_tick.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../misc/lv_event.h
+.\objects\lv_monkey.o: ..\third_lib\lvgl\src\others\monkey\../../indev/../misc/lv_array.h

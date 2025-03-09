@@ -1,0 +1,10 @@
+.\objects\lv_sprintf_builtin.o: ..\third_lib\lvgl\src\stdlib\builtin\lv_sprintf_builtin.c
+.\objects\lv_sprintf_builtin.o: ..\third_lib\lvgl\src\stdlib\builtin\../../lv_conf_internal.h
+.\objects\lv_sprintf_builtin.o: ..\third_lib\lvgl\src\stdlib\builtin\../../lv_conf_kconfig.h
+.\objects\lv_sprintf_builtin.o: ..\third_lib\lvgl\lv_conf.h
+.\objects\lv_sprintf_builtin.o: ..\third_lib\lvgl\src\stdlib\builtin\../lv_sprintf.h
+.\objects\lv_sprintf_builtin.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdbool.h
+.\objects\lv_sprintf_builtin.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdarg.h
+.\objects\lv_sprintf_builtin.o: F:\keil_5\ARM\Version_5\Bin\..\include\stddef.h
+.\objects\lv_sprintf_builtin.o: ..\third_lib\lvgl\src\stdlib\builtin\../../misc/lv_types.h
+.\objects\lv_sprintf_builtin.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdint.h

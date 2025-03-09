@@ -1,0 +1,9 @@
+.\objects\lv_mem_core_clib.o: ..\third_lib\lvgl\src\stdlib\clib\lv_mem_core_clib.c
+.\objects\lv_mem_core_clib.o: ..\third_lib\lvgl\src\stdlib\clib\../lv_mem.h
+.\objects\lv_mem_core_clib.o: ..\third_lib\lvgl\src\stdlib\clib\../../lv_conf_internal.h
+.\objects\lv_mem_core_clib.o: ..\third_lib\lvgl\src\stdlib\clib\../../lv_conf_kconfig.h
+.\objects\lv_mem_core_clib.o: ..\third_lib\lvgl\lv_conf.h
+.\objects\lv_mem_core_clib.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdint.h
+.\objects\lv_mem_core_clib.o: F:\keil_5\ARM\Version_5\Bin\..\include\stddef.h
+.\objects\lv_mem_core_clib.o: F:\keil_5\ARM\Version_5\Bin\..\include\string.h
+.\objects\lv_mem_core_clib.o: ..\third_lib\lvgl\src\stdlib\clib\../../misc/lv_types.h

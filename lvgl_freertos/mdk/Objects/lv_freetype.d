@@ -1,0 +1,11 @@
+.\objects\lv_freetype.o: ..\third_lib\lvgl\src\libs\freetype\lv_freetype.c
+.\objects\lv_freetype.o: ..\third_lib\lvgl\src\libs\freetype\lv_freetype.h
+.\objects\lv_freetype.o: ..\third_lib\lvgl\src\libs\freetype\../../lv_conf_internal.h
+.\objects\lv_freetype.o: ..\third_lib\lvgl\src\libs\freetype\../../lv_conf_kconfig.h
+.\objects\lv_freetype.o: ..\third_lib\lvgl\lv_conf.h
+.\objects\lv_freetype.o: ..\third_lib\lvgl\src\libs\freetype\../../misc/lv_types.h
+.\objects\lv_freetype.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdint.h
+.\objects\lv_freetype.o: ..\third_lib\lvgl\src\libs\freetype\../../misc/lv_event.h
+.\objects\lv_freetype.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdbool.h
+.\objects\lv_freetype.o: ..\third_lib\lvgl\src\libs\freetype\../../misc/lv_array.h
+.\objects\lv_freetype.o: F:\keil_5\ARM\Version_5\Bin\..\include\stddef.h
