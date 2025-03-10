@@ -1,0 +1,17 @@
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\lv_libinput.c
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\lv_libinput.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/lv_indev.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../core/lv_group.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../core/../lv_conf_internal.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../core/../lv_conf_kconfig.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\lv_conf.h
+.\objects\lv_libinput.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdint.h
+.\objects\lv_libinput.o: F:\keil_5\ARM\Version_5\Bin\..\include\stdbool.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../core/../misc/lv_types.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../core/../misc/lv_ll.h
+.\objects\lv_libinput.o: F:\keil_5\ARM\Version_5\Bin\..\include\stddef.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../misc/lv_area.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../misc/lv_timer.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../misc/../tick/lv_tick.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../misc/lv_event.h
+.\objects\lv_libinput.o: ..\third_lib\lvgl\src\drivers\libinput\../../indev/../misc/lv_array.h
